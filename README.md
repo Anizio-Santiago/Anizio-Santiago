@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/Anizio-Santiago">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Anizio-Santiago&&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Anizio-Santiago&sshow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anizio-Santiago&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
