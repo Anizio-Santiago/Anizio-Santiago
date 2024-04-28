@@ -1,7 +1,7 @@
 
 # 🚀Olá, meu nome é Anizio Santiago! 
 
- <strong> Estudante de ciência da computação 5/8 
+ <strong> Estudante de ciência da computação 8/8 
  </strong>
 
 
